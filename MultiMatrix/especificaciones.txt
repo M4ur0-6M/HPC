@@ -1,0 +1,27 @@
+descripción: Placa base
+producto: H61S
+fabricante: Foxconn
+
+descripción: CPU
+producto: Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz
+tamaño: 1784MHz
+capacidad: 3800MHz
+anchura: 64 bits
+reloj: 100MHz
+configuración: cores=2 enabledcores=2 threads=4
+
+descripción: Memoria de sistema
+tamaño: 4GiB
+descripción: DIMM DDR3 Síncrono 1333 MHz (0,8 ns)
+
+descripción: ATA Disk
+producto: ST1500DM003-9YN1
+fabricante: Seagate
+tamaño: 1397GiB (1500GB)
+
+descripción: Sistema operativo
+Operating System: Linux Mint 19.3
+Kernel: Linux 5.3.0-40-generic
+Architecture: x86-64
+
+
